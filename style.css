@@ -1,0 +1,16 @@
+body {
+ display: flex;
+ flex-direction: column;
+ place-items: center;
+ min-height: 100vh;
+ width: 100%;
+ justify-content: center;
+}
+
+.spc {
+ margin-right: 20px;
+}
+
+h4 {
+ text-transform: capitalize;
+}
